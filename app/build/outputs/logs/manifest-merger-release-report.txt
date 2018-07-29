@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/12cab8d391cb29c246076b044f173218/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/91977fe6959f0aea3027af5146b5bfba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.0.aar/d2a28bf3ebf4b812f1bb6f632cf272ed/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/01b5e9c97bf9b4d0225e1b5d88ae976e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/4ba6e031886f8961cc0e9a67f129d536/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/7eeb332879d17fab3a22d460d5084e83/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e7e57817c389ed91f1c603d8414d4516/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/9e8d0f2bf578424f8a1d75dba3829793/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9a86fbb44296ad3a29e1939cf1f87671/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7f6c9622b3c761f534e95d45e0908941/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5cc57b69d2c7e893489b5531ec485b81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7e80073aa1b50a73fb4a96bb65d24878/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d19847eddfdb121e16ca1b3f4d51f879/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4bcd6155a8d5b76b65ec5bf3ca59f3b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/843187dc38316f9dcfd54a94b278ff29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5772a65ef2688e48350864f6e53fdcc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5e810423e142dcefbfafd2050a10bc3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/62fafdd8f9a03b789d70504699e9bd2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4b7f660b5a65c3db78f75a1ea6f38803/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cf673085284235c6e0c323ae728bc91e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7f726ab4806819d1704d529dbb891c22/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c7e66655c1eb966eeb2ef09cda4a74b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/df3e47eebf158d4a10d0668b5d67de6f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/55c2f95454a8b9780319db66def97496/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:10:5-32:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/12cab8d391cb29c246076b044f173218/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/12cab8d391cb29c246076b044f173218/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.0.aar/d2a28bf3ebf4b812f1bb6f632cf272ed/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.0.aar/d2a28bf3ebf4b812f1bb6f632cf272ed/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/01b5e9c97bf9b4d0225e1b5d88ae976e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/01b5e9c97bf9b4d0225e1b5d88ae976e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/7eeb332879d17fab3a22d460d5084e83/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/7eeb332879d17fab3a22d460d5084e83/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e7e57817c389ed91f1c603d8414d4516/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e7e57817c389ed91f1c603d8414d4516/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/9e8d0f2bf578424f8a1d75dba3829793/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/9e8d0f2bf578424f8a1d75dba3829793/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9a86fbb44296ad3a29e1939cf1f87671/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9a86fbb44296ad3a29e1939cf1f87671/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:15:9-37
+	android:hardwareAccelerated
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9a86fbb44296ad3a29e1939cf1f87671/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9a86fbb44296ad3a29e1939cf1f87671/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:26:13-38
+	android:name
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:25:19-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/12cab8d391cb29c246076b044f173218/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/12cab8d391cb29c246076b044f173218/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/91977fe6959f0aea3027af5146b5bfba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/91977fe6959f0aea3027af5146b5bfba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.0.aar/d2a28bf3ebf4b812f1bb6f632cf272ed/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.0.aar/d2a28bf3ebf4b812f1bb6f632cf272ed/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/01b5e9c97bf9b4d0225e1b5d88ae976e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/01b5e9c97bf9b4d0225e1b5d88ae976e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/4ba6e031886f8961cc0e9a67f129d536/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/4ba6e031886f8961cc0e9a67f129d536/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/7eeb332879d17fab3a22d460d5084e83/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/7eeb332879d17fab3a22d460d5084e83/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e7e57817c389ed91f1c603d8414d4516/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e7e57817c389ed91f1c603d8414d4516/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/9e8d0f2bf578424f8a1d75dba3829793/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/9e8d0f2bf578424f8a1d75dba3829793/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9a86fbb44296ad3a29e1939cf1f87671/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9a86fbb44296ad3a29e1939cf1f87671/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7f6c9622b3c761f534e95d45e0908941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7f6c9622b3c761f534e95d45e0908941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5cc57b69d2c7e893489b5531ec485b81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5cc57b69d2c7e893489b5531ec485b81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7e80073aa1b50a73fb4a96bb65d24878/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7e80073aa1b50a73fb4a96bb65d24878/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d19847eddfdb121e16ca1b3f4d51f879/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d19847eddfdb121e16ca1b3f4d51f879/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4bcd6155a8d5b76b65ec5bf3ca59f3b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4bcd6155a8d5b76b65ec5bf3ca59f3b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/843187dc38316f9dcfd54a94b278ff29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/843187dc38316f9dcfd54a94b278ff29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5772a65ef2688e48350864f6e53fdcc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5772a65ef2688e48350864f6e53fdcc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5e810423e142dcefbfafd2050a10bc3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5e810423e142dcefbfafd2050a10bc3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/62fafdd8f9a03b789d70504699e9bd2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/62fafdd8f9a03b789d70504699e9bd2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4b7f660b5a65c3db78f75a1ea6f38803/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4b7f660b5a65c3db78f75a1ea6f38803/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cf673085284235c6e0c323ae728bc91e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cf673085284235c6e0c323ae728bc91e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7f726ab4806819d1704d529dbb891c22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7f726ab4806819d1704d529dbb891c22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c7e66655c1eb966eeb2ef09cda4a74b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c7e66655c1eb966eeb2ef09cda4a74b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/df3e47eebf158d4a10d0668b5d67de6f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/df3e47eebf158d4a10d0668b5d67de6f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/55c2f95454a8b9780319db66def97496/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/55c2f95454a8b9780319db66def97496/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e7e57817c389ed91f1c603d8414d4516/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e7e57817c389ed91f1c603d8414d4516/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e7e57817c389ed91f1c603d8414d4516/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e7e57817c389ed91f1c603d8414d4516/AndroidManifest.xml:24:13-79

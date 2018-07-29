@@ -1,0 +1,4 @@
+#Sat Jul 28 19:49:42 IST 2018
+base.0=/Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
