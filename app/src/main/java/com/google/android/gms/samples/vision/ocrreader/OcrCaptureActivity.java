@@ -430,6 +430,8 @@ public final class OcrCaptureActivity extends AppCompatActivity {
             }
         }
     }
+
+
 }
 
 
