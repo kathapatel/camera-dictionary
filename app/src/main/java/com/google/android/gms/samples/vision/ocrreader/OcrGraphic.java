@@ -55,9 +55,9 @@ public class OcrGraphic extends GraphicOverlay.Graphic {
 
     private static Paint rectPaint;
     private static Paint textPaint;
-    private final TextBlock textBlock;
+    private final Text textBlock;
 
-    OcrGraphic(GraphicOverlay overlay, TextBlock text) {
+    OcrGraphic(GraphicOverlay overlay, Text text) {
         super(overlay);
 
         textBlock = text;
@@ -86,7 +86,7 @@ public class OcrGraphic extends GraphicOverlay.Graphic {
         this.id = id;
     }
 
-    public TextBlock getTextBlock() {
+    public Text getTextBlock() {
         return textBlock;
     }
 

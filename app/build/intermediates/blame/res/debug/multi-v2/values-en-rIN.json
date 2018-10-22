@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "/Users/kathapatel/Documents/experiment/camera-dictionary/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
                     "source": "/Users/kathapatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/74cbd088a97a5dc5c5c2b95b06ece63e/res/values-en-rIN/values-en-rIN.xml",

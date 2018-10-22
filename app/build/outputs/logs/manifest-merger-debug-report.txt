@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-36:12
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
 MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/bcbd2bb93d6f958eed9f0a0da5998282/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:design:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/02f524111c69f4ca6dad3685dba08b08/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.0.aar/62732784be4d84c599bb2d508e0ba42b/AndroidManifest.xml:2:1-9:12
@@ -28,39 +28,39 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kathapatel/.grad
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/537a03cb13a0194ec72d5689ace0d1c3/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f1b3ecf7cdf5ce00c5fba6beb377fbfc/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ddee04241c3c88d183213b5eea8ae92/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
 	package
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:3:5-62
-		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-36:12
-		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-36:12
-		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:4:5-35
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:4:5-35
 uses-feature#android.hardware.camera
-ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:5-60
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:6:5-60
 	android:name
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:19-57
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:6:19-57
 uses-permission#android.permission.INTERNET
-ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:5-67
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:8:5-67
 	android:name
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:22-64
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:8:22-64
 uses-permission#android.permission.CAMERA
-ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:9:5-65
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:9:22-62
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:9:22-62
 application
-ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:11:5-34:19
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:11:5-34:19
 MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/bcbd2bb93d6f958eed9f0a0da5998282/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/bcbd2bb93d6f958eed9f0a0da5998282/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.0.aar/62732784be4d84c599bb2d508e0ba42b/AndroidManifest.xml:7:5-20
@@ -76,53 +76,53 @@ MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kathapate
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c1d2ec6fd9c0fc1c76ee4c1fe4229146/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c1d2ec6fd9c0fc1c76ee4c1fe4229146/AndroidManifest.xml:22:5-26:19
 	android:supportsRtl
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:17:9-35
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:16:9-37
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:16:9-37
 	android:hardwareAccelerated
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:14:9-43
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:14:9-43
 	android:fullBackupContent
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:13:9-42
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:13:9-42
 	android:icon
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:15:9-38
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:15:9-38
 	android:allowBackup
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:18:9-47
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:18:9-47
 meta-data#com.google.android.gms.version
-ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:19:9-21:69
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:19:9-21:69
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c1d2ec6fd9c0fc1c76ee4c1fe4229146/AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c1d2ec6fd9c0fc1c76ee4c1fe4229146/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:21:13-66
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:21:13-66
 	android:name
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:20:13-58
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:20:13-58
 meta-data#com.google.android.gms.vision.DEPENDENCIES
-ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:22:9-24:35
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:22:9-24:35
 	android:value
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:24:13-32
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:24:13-32
 	android:name
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:23:13-70
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:23:13-70
 activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
-ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:26:9-33:20
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:26:9-33:20
 	android:label
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:28:13-38
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:28:13-38
 	android:name
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:27:13-94
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:27:13-94
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:29:13-32:29
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:29:13-32:29
 action#android.intent.action.MAIN
-ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:31:27-74
 uses-sdk
-INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
-INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/bcbd2bb93d6f958eed9f0a0da5998282/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/bcbd2bb93d6f958eed9f0a0da5998282/AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:design:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/02f524111c69f4ca6dad3685dba08b08/AndroidManifest.xml:20:5-44
@@ -171,16 +171,16 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kathapatel/.gradle/cac
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f1b3ecf7cdf5ce00c5fba6beb377fbfc/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ddee04241c3c88d183213b5eea8ae92/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ddee04241c3c88d183213b5eea8ae92/AndroidManifest.xml:20:5-44
-INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
-INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/04926baadcd175836c53e27e24b9b8b8/AndroidManifest.xml:23:9-26:75
 	android:exported

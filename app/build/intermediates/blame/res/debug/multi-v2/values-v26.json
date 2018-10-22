@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "/Users/kathapatel/Documents/experiment/camera-dictionary/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
                     "source": "/Users/kathapatel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/02f524111c69f4ca6dad3685dba08b08/res/values-v26/values-v26.xml",

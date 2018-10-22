@@ -21,6 +21,7 @@ import android.util.SparseArray;
 
 import com.google.android.gms.samples.vision.ocrreader.ui.camera.GraphicOverlay;
 import com.google.android.gms.vision.Detector;
+import com.google.android.gms.vision.text.Text;
 import com.google.android.gms.vision.text.TextBlock;
 
 /**
@@ -48,10 +49,15 @@ public class OcrDetectorProcessor implements Detector.Processor<TextBlock> {
         SparseArray<TextBlock> items = detections.getDetectedItems();
         for (int i = 0; i < items.size(); ++i) {
             TextBlock item = items.valueAt(i);
-            if (item != null && item.getValue() != null) {
-                Log.d("OcrDetectorProcessor", "Text detected! " + item.getValue());
-                OcrGraphic graphic = new OcrGraphic(graphicOverlay, item);
-                graphicOverlay.add(graphic);
+            //saperating words from blocks
+            for(Text lines:item.getComponents()) {
+                for (Text words : lines.getComponents()) {
+                    if (words != null && words.getValue() != null) {
+                        Log.d("OcrDetectorProcessor", "Text detected! " + words.getValue());
+                        OcrGraphic graphic = new OcrGraphic(graphicOverlay, words);
+                        graphicOverlay.add(graphic);
+                    }
+                }
             }
         }
     }

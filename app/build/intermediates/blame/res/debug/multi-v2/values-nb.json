@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kathapatel/Documents/experiment/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
+            "outputFile": "/Users/kathapatel/Documents/experiment/camera-dictionary/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
             "map": [
                 {
                     "source": "/Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c1d2ec6fd9c0fc1c76ee4c1fe4229146/res/values-nb/values.xml",
