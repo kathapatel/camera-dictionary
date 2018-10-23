@@ -52,8 +52,15 @@ public class OcrDetectorProcessor implements Detector.Processor<TextBlock> {
             //saperating words from blocks
             for(Text lines:item.getComponents()) {
                 for (Text words : lines.getComponents()) {
-                    if (words != null && words.getValue() != null) {
-                        Log.d("OcrDetectorProcessor", "Text detected! " + words.getValue());
+                    String word=words.getValue();
+                    if (words != null && word != null) {
+                        Log.d("OcrDetectorProcessor", "Text detected! " + word);
+                        //remove numbers or special characters from string
+                        for(int j=0;j<word.length();j++){
+                            if(word.charAt(j)<65 || word.charAt(j)>122 || (word.charAt(j)>90 && word.charAt(j)<97)){
+                                word.replace(word.charAt(j)+"","");
+                            }
+                        }
                         OcrGraphic graphic = new OcrGraphic(graphicOverlay, words);
                         graphicOverlay.add(graphic);
                     }
