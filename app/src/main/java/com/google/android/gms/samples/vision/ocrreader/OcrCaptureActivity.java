@@ -55,12 +55,15 @@ import org.json.JSONObject;
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.Locale;
 
 import javax.net.ssl.HttpsURLConnection;
+
+import static android.widget.Toast.LENGTH_LONG;
 
 /**
  * Activity for the Ocr Detecting app.  This app detects text and displays the value with the
@@ -216,7 +219,7 @@ public final class OcrCaptureActivity extends AppCompatActivity {
             boolean hasLowStorage = registerReceiver(null, lowstorageFilter) != null;
 
             if (hasLowStorage) {
-                Toast.makeText(this, R.string.low_storage_error, Toast.LENGTH_LONG).show();
+                Toast.makeText(this, R.string.low_storage_error, LENGTH_LONG).show();
                 Log.w(TAG, getString(R.string.low_storage_error));
             }
         }
@@ -358,6 +361,13 @@ public final class OcrCaptureActivity extends AppCompatActivity {
                 Log.d(TAG, "text data is being spoken! " + text.getValue());
                 // Speak the string.
                 //tts.speak(text.getValue(), TextToSpeech.QUEUE_ADD, null, "DEFAULT");
+                try {
+                    JSONObject obj = new JSONObject(loadJSONFromAsset());
+                    String meaning = obj.get(text.getValue()).toString();
+                    Snackbar.make(findViewById(R.id.topLayout), text.getValue() + "/n" + meaning, LENGTH_LONG);
+                } catch (JSONException e) {
+                    System.out.println(e.getMessage());
+                }
             } else {
                 Log.d(TAG, "text data is null");
             }
@@ -431,7 +441,19 @@ public final class OcrCaptureActivity extends AppCompatActivity {
         }
     }
 
-
+    public String loadJSONFromAsset() {
+        String json = null;
+        try {
+            InputStream is = OcrCaptureActivity.this.getAssets().open("yourfilename.json");
+            int size = is.available();
+            byte[] buffer = new byte[size];
+            is.read(buffer);
+            is.close();
+            json = new String(buffer, "UTF-8");
+        } catch (IOException ex) {
+            ex.printStackTrace();
+            return null;
+        }
+        return json;
+    }
 }
-
-
