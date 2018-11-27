@@ -446,7 +446,7 @@ public final class OcrCaptureActivity extends AppCompatActivity {
     public String loadJSONFromAsset() {
         String json = null;
         try {
-            InputStream is = OcrCaptureActivity.this.getAssets().open("yourfilename.json");
+            InputStream is = OcrCaptureActivity.this.getAssets().open("data.json");
             int size = is.available();
             byte[] buffer = new byte[size];
             is.read(buffer);
