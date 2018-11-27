@@ -24,13 +24,15 @@
             android:value="ocr" />
 
         <activity
-            android:name="com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity"
+            android:name=".OcrCaptureActivity"
             android:label="Read Text">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MainActivity"></activity>
     </application>
 
 </manifest>

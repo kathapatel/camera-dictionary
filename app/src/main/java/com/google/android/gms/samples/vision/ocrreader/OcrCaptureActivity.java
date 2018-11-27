@@ -72,7 +72,7 @@ import static android.widget.Toast.LENGTH_LONG;
  */
 public final class OcrCaptureActivity extends AppCompatActivity {
     private static final String TAG = "OcrCaptureActivity";
-
+    private WordRepository mWordRepository;
     // Intent request code to handle updating play services if needed.
     private static final int RC_HANDLE_GMS = 9001;
     OcrCaptureActivity context;
@@ -104,7 +104,7 @@ public final class OcrCaptureActivity extends AppCompatActivity {
         setContentView(R.layout.ocr_capture);
         preview = (CameraSourcePreview) findViewById(R.id.preview);
         graphicOverlay = (GraphicOverlay<OcrGraphic>) findViewById(R.id.graphicOverlay);
-
+        mWordRepository = new WordRepository(this.getApplication());
         // Set good defaults for capturing text.
         boolean autoFocus = true;
         boolean useFlash = false;
@@ -358,13 +358,15 @@ public final class OcrCaptureActivity extends AppCompatActivity {
         if (graphic != null) {
             text = graphic.getTextBlock();
             if (text != null && text.getValue() != null) {
-                Log.d(TAG, "text data is being spoken! " + text.getValue());
+                String word = text.getValue();
+                Log.d(TAG, "text data is being spoken! " + word);
                 // Speak the string.
                 //tts.speak(text.getValue(), TextToSpeech.QUEUE_ADD, null, "DEFAULT");
                 try {
                     JSONObject obj = new JSONObject(loadJSONFromAsset());
-                    String meaning = obj.get(text.getValue()).toString();
+                    String meaning = obj.get(word).toString();
                     Snackbar.make(findViewById(R.id.topLayout), text.getValue() + "/n" + meaning, LENGTH_LONG);
+                    mWordRepository.insert(new Word(word,meaning));
                 } catch (JSONException e) {
                     System.out.println(e.getMessage());
                 }

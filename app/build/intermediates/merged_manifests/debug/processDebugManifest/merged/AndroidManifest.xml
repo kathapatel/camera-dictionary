@@ -39,10 +39,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.google.android.gms.samples.vision.ocrreader.MainActivity" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.google.android.gms.samples.vision.ocrreader.lifecycle-trojan"
+            android:exported="false"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

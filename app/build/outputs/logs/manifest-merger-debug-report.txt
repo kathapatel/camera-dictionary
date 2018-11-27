@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-38:12
 MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/bcbd2bb93d6f958eed9f0a0da5998282/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:design:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/02f524111c69f4ca6dad3685dba08b08/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.0.aar/62732784be4d84c599bb2d508e0ba42b/AndroidManifest.xml:2:1-9:12
@@ -14,34 +14,40 @@ MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1d4c08d8f750d523137c63500e67c0d3/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c1d2ec6fd9c0fc1c76ee4c1fe4229146/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5d7d0b785e31c32c9177e57142a9a29b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/11363701bc74e8b4a86095b3ebc853cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a17ed338a504d1fa2628e5b69a1a9811/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/a811e9b69e29182df6a0cb9837133d7a/AndroidManifest.xml:17:1-30:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9f8cd80d497f63cafc23f0d40442273e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f146ef1d389466039baa1746b7281a05/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/74cbd088a97a5dc5c5c2b95b06ece63e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d8eca34cee07271a491fcf20d5b50e18/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d75786417f8d0f08613f4d36c17b625e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e59d9e7385e2a130498d75cdcfc8ace9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d8eca34cee07271a491fcf20d5b50e18/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/73eae4d6bc7fecc46e64ebfac48c55f2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/38485071dc61e54cf35a2798fd241cf0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e59d9e7385e2a130498d75cdcfc8ace9/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/1b3af37aa9d2eb8d819796466001f0b4/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3cfc1da64d9f4608cb31c41e0e47b50/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b12a7136aa35642d207756b665215b0f/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/537a03cb13a0194ec72d5689ace0d1c3/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f1b3ecf7cdf5ce00c5fba6beb377fbfc/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ddee04241c3c88d183213b5eea8ae92/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/6589b33b6730d725192baa559d48fd76/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/041181d3630e156c8d4431308b733427/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ade11bc7a03858456ad3036d4afc8e65/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bc40b7e1f3139bfa1b066e8b9826b1c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79fad8812528ea6226a7ce18fe125e9a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d471b0c1cd3f97a945087a7a268081da/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f64a84eacdcd047dedbb2a25516d1440/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:3:5-62
 		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-38:12
 		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-36:12
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:1-38:12
 		INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:2:11-69
@@ -60,7 +66,7 @@ ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main
 	android:name
 		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:9:22-62
 application
-ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:11:5-34:19
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:11:5-36:19
 MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/bcbd2bb93d6f958eed9f0a0da5998282/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/bcbd2bb93d6f958eed9f0a0da5998282/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.0.aar/62732784be4d84c599bb2d508e0ba42b/AndroidManifest.xml:7:5-20
@@ -75,6 +81,10 @@ MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kathapate
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1d4c08d8f750d523137c63500e67c0d3/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c1d2ec6fd9c0fc1c76ee4c1fe4229146/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c1d2ec6fd9c0fc1c76ee4c1fe4229146/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a17ed338a504d1fa2628e5b69a1a9811/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a17ed338a504d1fa2628e5b69a1a9811/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/a811e9b69e29182df6a0cb9837133d7a/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/a811e9b69e29182df6a0cb9837133d7a/AndroidManifest.xml:22:5-28:19
 	android:supportsRtl
 		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:17:9-35
 	android:label
@@ -104,21 +114,25 @@ ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main
 	android:name
 		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:23:13-70
 activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
-ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:26:9-33:20
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:26:9-34:20
 	android:label
 		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:28:13-38
 	android:name
-		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:27:13-94
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:27:13-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:29:13-32:29
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
 ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
 		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.google.android.gms.samples.vision.ocrreader.MainActivity
+ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:35:9-59
+	android:name
+		ADDED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml:35:19-47
 uses-sdk
 INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
@@ -143,34 +157,46 @@ MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathap
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c1d2ec6fd9c0fc1c76ee4c1fe4229146/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5d7d0b785e31c32c9177e57142a9a29b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5d7d0b785e31c32c9177e57142a9a29b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/11363701bc74e8b4a86095b3ebc853cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/11363701bc74e8b4a86095b3ebc853cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a17ed338a504d1fa2628e5b69a1a9811/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a17ed338a504d1fa2628e5b69a1a9811/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/a811e9b69e29182df6a0cb9837133d7a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/a811e9b69e29182df6a0cb9837133d7a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9f8cd80d497f63cafc23f0d40442273e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9f8cd80d497f63cafc23f0d40442273e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f146ef1d389466039baa1746b7281a05/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f146ef1d389466039baa1746b7281a05/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/74cbd088a97a5dc5c5c2b95b06ece63e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/74cbd088a97a5dc5c5c2b95b06ece63e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d8eca34cee07271a491fcf20d5b50e18/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d8eca34cee07271a491fcf20d5b50e18/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d75786417f8d0f08613f4d36c17b625e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d75786417f8d0f08613f4d36c17b625e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e59d9e7385e2a130498d75cdcfc8ace9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e59d9e7385e2a130498d75cdcfc8ace9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d8eca34cee07271a491fcf20d5b50e18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d8eca34cee07271a491fcf20d5b50e18/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/73eae4d6bc7fecc46e64ebfac48c55f2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/73eae4d6bc7fecc46e64ebfac48c55f2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/38485071dc61e54cf35a2798fd241cf0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/38485071dc61e54cf35a2798fd241cf0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e59d9e7385e2a130498d75cdcfc8ace9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e59d9e7385e2a130498d75cdcfc8ace9/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/1b3af37aa9d2eb8d819796466001f0b4/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/1b3af37aa9d2eb8d819796466001f0b4/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3cfc1da64d9f4608cb31c41e0e47b50/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3cfc1da64d9f4608cb31c41e0e47b50/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b12a7136aa35642d207756b665215b0f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b12a7136aa35642d207756b665215b0f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/537a03cb13a0194ec72d5689ace0d1c3/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/537a03cb13a0194ec72d5689ace0d1c3/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f1b3ecf7cdf5ce00c5fba6beb377fbfc/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f1b3ecf7cdf5ce00c5fba6beb377fbfc/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ddee04241c3c88d183213b5eea8ae92/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ddee04241c3c88d183213b5eea8ae92/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/6589b33b6730d725192baa559d48fd76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/6589b33b6730d725192baa559d48fd76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/041181d3630e156c8d4431308b733427/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/041181d3630e156c8d4431308b733427/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ade11bc7a03858456ad3036d4afc8e65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ade11bc7a03858456ad3036d4afc8e65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bc40b7e1f3139bfa1b066e8b9826b1c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bc40b7e1f3139bfa1b066e8b9826b1c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79fad8812528ea6226a7ce18fe125e9a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79fad8812528ea6226a7ce18fe125e9a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d471b0c1cd3f97a945087a7a268081da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d471b0c1cd3f97a945087a7a268081da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f64a84eacdcd047dedbb2a25516d1440/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f64a84eacdcd047dedbb2a25516d1440/AndroidManifest.xml:20:5-44
 INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 INJECTED from /Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -189,3 +215,13 @@ ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/
 		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/04926baadcd175836c53e27e24b9b8b8/AndroidManifest.xml:26:13-72
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/04926baadcd175836c53e27e24b9b8b8/AndroidManifest.xml:24:13-79
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/a811e9b69e29182df6a0cb9837133d7a/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/a811e9b69e29182df6a0cb9837133d7a/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/a811e9b69e29182df6a0cb9837133d7a/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/a811e9b69e29182df6a0cb9837133d7a/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/kathapatel/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/a811e9b69e29182df6a0cb9837133d7a/AndroidManifest.xml:24:13-83

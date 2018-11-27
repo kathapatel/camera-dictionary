@@ -76,6 +76,10 @@
         "source": "/Users/kathapatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/74cbd088a97a5dc5c5c2b95b06ece63e/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
+        "merged": "/Users/kathapatel/Documents/experiment/camera-dictionary/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/res/layout/activity_main.xml"
+    },
+    {
         "merged": "/Users/kathapatel/Documents/experiment/camera-dictionary/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
         "source": "/Users/kathapatel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3cfc1da64d9f4608cb31c41e0e47b50/res/drawable-v21/notification_action_background.xml"
     },
@@ -118,6 +122,10 @@
     {
         "merged": "/Users/kathapatel/Documents/experiment/camera-dictionary/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/Users/kathapatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/74cbd088a97a5dc5c5c2b95b06ece63e/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kathapatel/Documents/experiment/camera-dictionary/app/build/intermediates/res/merged/debug/layout_recyclerview_item.xml.flat",
+        "source": "/Users/kathapatel/Documents/experiment/camera-dictionary/app/src/main/res/layout/recyclerview_item.xml"
     },
     {
         "merged": "/Users/kathapatel/Documents/experiment/camera-dictionary/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
